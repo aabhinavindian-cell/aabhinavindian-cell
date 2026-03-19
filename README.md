@@ -15,6 +15,8 @@ I'm a People Analytics professional with experience spanning financial services,
 
 I've advised CXO-level stakeholders on workforce strategy and built BI solutions that connect HR data to business outcomes. Currently based in the **UAE**, supporting a ~10,000-employee defence organisation with end-to-end HR analytics.
 
+I bring hands-on experience with leading **HR technology platforms** — extracting, transforming, and analysing data from enterprise HRIS ecosystems to drive workforce decisions.
+
 I'm on a continuous journey to sharpen both my **technical depth** and **strategic thinking** — this GitHub is a live record of that journey.
 
 ---
@@ -23,8 +25,10 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 
 | Area | Tools |
 |---|---|
-| Visualisation | Power BI |
+| Visualisation | Power BI | Tableau |
 | Data & Analytics | SQL · Python (pandas, numpy) |
+| HRIS & ERP Platforms | SAP SuccessFactors · Oracle Fusion HCM · Workday |
+| Project Management | Agile · Jira · MS Project . ServiceNow |
 | HR Domain | Workforce Planning · Attrition Modelling · Compensation Analytics · Headcount Forecasting |
 
 ---
