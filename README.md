@@ -40,7 +40,7 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 | 🔍 [HR Attrition Risk Model](https://github.com/aabhinavindian-cell/hr-attrition-risk-model) | Predict attrition risk across employee segments using ML | Python · scikit-learn |
 | 📊 [Workforce Headcount Planner](https://github.com/aabhinavindian-cell/hr-headcount-planner) | Model hiring pipeline vs attrition vs growth targets | SQL · Python |
 | 💰 [Compensation Benchmarking Tool](https://github.com/aabhinavindian-cell/hr-compensation-benchmarking) | Percentile banding and grade-level pay analysis | Python · pandas |
-| 💼 [Workforce Cost Modeller](https://github.com/aabhinavindian-cell/hr-workforce-cost-modeller) | Interactive app to model total workforce cost by department with scenario comparison (Hiring Freeze, Growth, Restructuring) | Python · Streamlit · Plotly |
+| 💼 [Workforce Cost Modeller](https://github.com/aabhinavindian-cell/hr-workforce-cost-modeller) | Interactive app to model total workforce cost by department with scenario comparison (Hiring Freeze, Growth, Restructuring) · [▶ Live App](https://hr-workforce-cost-modeller-9npdfebtwappqdjg6a4dldd.streamlit.app/) | Python · Streamlit · Plotly |
 
 *(Projects being actively built — check back regularly)*
 
