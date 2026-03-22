@@ -1,7 +1,5 @@
 <!-- Profile README for aabhinavindian-cell -->
-
 <h1 align="left">Hi, I'm Abhinav 👋</h1>
-
 <p align="left">
   <b>HR Analytics & Insights Professional</b><br/>
   Turning workforce data into decisions that move organisations forward.
@@ -25,10 +23,10 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 
 | Area | Tools |
 |---|---|
-| Visualisation | Power BI | Tableau |
-| Data & Analytics | SQL · Python (pandas, numpy) |
+| Visualisation | Power BI · Tableau |
+| Data & Analytics | SQL · Python (pandas, numpy, plotly, streamlit) |
 | HRIS & ERP Platforms | SAP SuccessFactors · Oracle Fusion HCM · Workday |
-| Project Management | Agile · Jira · MS Project . ServiceNow |
+| Project Management | Agile · Jira · MS Project · ServiceNow |
 | HR Domain | Workforce Planning · Attrition Modelling · Compensation Analytics · Headcount Forecasting |
 
 ---
@@ -42,6 +40,7 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 | 🔍 [HR Attrition Risk Model](https://github.com/aabhinavindian-cell/hr-attrition-risk-model) | Predict attrition risk across employee segments using ML | Python · scikit-learn |
 | 📊 [Workforce Headcount Planner](https://github.com/aabhinavindian-cell/hr-headcount-planner) | Model hiring pipeline vs attrition vs growth targets | SQL · Python |
 | 💰 [Compensation Benchmarking Tool](https://github.com/aabhinavindian-cell/hr-compensation-benchmarking) | Percentile banding and grade-level pay analysis | Python · pandas |
+| 💼 [Workforce Cost Modeller](https://github.com/aabhinavindian-cell/hr-workforce-cost-modeller) | Interactive app to model total workforce cost by department with scenario comparison (Hiring Freeze, Growth, Restructuring) | Python · Streamlit · Plotly |
 
 *(Projects being actively built — check back regularly)*
 
@@ -50,6 +49,7 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 ### 📈 What I'm Currently Working On
 
 - Building a structured **HR Analytics project portfolio** from real-world use cases
+- Developing **Finance + HR apps** — bridging people data with cost modelling and scenario planning
 - Deepening **Python for People Analytics** — modelling, automation, insight generation
 - Advancing **analytical SQL** — cohort analysis, workforce metrics, window functions
 - Connecting Python outputs into **Power BI** for end-to-end reporting workflows
