@@ -41,6 +41,7 @@ I'm on a continuous journey to sharpen both my **technical depth** and **strateg
 | 📊 [Workforce Headcount Planner](https://github.com/aabhinavindian-cell/hr-headcount-planner) | Model hiring pipeline vs attrition vs growth targets | SQL · Python |
 | 💰 [Compensation Benchmarking Tool](https://github.com/aabhinavindian-cell/hr-compensation-benchmarking) | Percentile banding and grade-level pay analysis | Python · pandas |
 | 💼 [Workforce Cost Modeller](https://github.com/aabhinavindian-cell/hr-workforce-cost-modeller) | Interactive app to model total workforce cost by department with scenario comparison (Hiring Freeze, Growth, Restructuring) · [▶ Live App](https://hr-workforce-cost-modeller-9npdfebtwappqdjg6a4dldd.streamlit.app/) | Python · Streamlit · Plotly |
+| 💰 [HR Compensation Benchmarking App](https://github.com/aabhinavindian-cell/hr-comp-benchmarking) | Benchmark employee salaries against internal grade bands with compa-ratio, skill matrix, and pay equity flags · [▶ Live App](https://hr-comp-benchmarking-4tozkys6gtuj24pwxksznh.streamlit.app/) | Python · Streamlit · Plotly |
 
 *(Projects being actively built — check back regularly)*
 
